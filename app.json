@@ -1,4 +1,7 @@
 {
   "name": "financeapp",
-  "displayName": "financeapp"
+  "displayName": "financeapp",
+  "plugins": [
+    "expo-asset"
+  ]
 }
